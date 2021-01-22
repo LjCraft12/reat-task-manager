@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/%7Breat-task-manager%7D/static/css/main.caa96614.chunk.css",
+    "main.js": "/%7Breat-task-manager%7D/static/js/main.6d544f18.chunk.js",
+    "main.js.map": "/%7Breat-task-manager%7D/static/js/main.6d544f18.chunk.js.map",
+    "runtime-main.js": "/%7Breat-task-manager%7D/static/js/runtime-main.fd7ab42d.js",
+    "runtime-main.js.map": "/%7Breat-task-manager%7D/static/js/runtime-main.fd7ab42d.js.map",
+    "static/js/2.4bcfb951.chunk.js": "/%7Breat-task-manager%7D/static/js/2.4bcfb951.chunk.js",
+    "static/js/2.4bcfb951.chunk.js.map": "/%7Breat-task-manager%7D/static/js/2.4bcfb951.chunk.js.map",
+    "static/js/3.d1745ade.chunk.js": "/%7Breat-task-manager%7D/static/js/3.d1745ade.chunk.js",
+    "static/js/3.d1745ade.chunk.js.map": "/%7Breat-task-manager%7D/static/js/3.d1745ade.chunk.js.map",
+    "index.html": "/%7Breat-task-manager%7D/index.html",
+    "static/css/main.caa96614.chunk.css.map": "/%7Breat-task-manager%7D/static/css/main.caa96614.chunk.css.map",
+    "static/js/2.4bcfb951.chunk.js.LICENSE.txt": "/%7Breat-task-manager%7D/static/js/2.4bcfb951.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd7ab42d.js",
+    "static/js/2.4bcfb951.chunk.js",
+    "static/css/main.caa96614.chunk.css",
+    "static/js/main.6d544f18.chunk.js"
+  ]
+}
